@@ -2,6 +2,11 @@
 
 <robot name="robot">
 
+  <!-- GAZEBO Stuff-->
+  <gazebo reference="base_link">
+    <material>Gazebo/Black</material>
+  </gazebo>
+
   <!-- Link - base_footprint -->
   <link name="base_footprint"/>
 
