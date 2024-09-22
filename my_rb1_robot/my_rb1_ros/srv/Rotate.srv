@@ -1,0 +1,3 @@
+float64 degrees    # The degrees the rb1 will rotate WRT the current orientation.
+---
+bool result         # Did it achieve it?
